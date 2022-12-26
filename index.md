@@ -1,13 +1,13 @@
-「あとジャン」をご利用いただきありがとうございます。<br>
+Thank you for visiting "xxxxxxxxxxx".<br>
 
-広告について<br>
-本アプリでは、広告配信ツールとしてAdMob(Google Inc.)を使用しており、AdMobがご利用者の情報を自動取得する場合がございます。取得する情報、利用目的、第三者への提供等につきましては、以下の広告配信事業者のアプリケーション・プライバシーポリシーのリンクよりご確認ください。<br>
+About Advertisements<br>
+This application uses AdMob (Google Inc.) as an advertising distribution tool, and AdMob may automatically acquire information about users. Please refer to the following link to the application privacy policy of the ad-serving company for information on the information to be acquired, the purpose of use, and provision to third parties.<br>
 
-Google 広告に関するポリシー<br>
+Google Advertising Policy<br>
 https://policies.google.com/technologies/ads?hl=ja<br>
 
-利用状況解析ついて<br>
-本アプリでは、今後の開発の参考とするため、アプリの利用状況データを収集するツールとしてFirebase(Google Inc.)を使用しており、Firebaseがご利用者の情報を自動取得する場合がございます。取得する情報、利用目的、第三者への提供等につきましては、以下のGoogleプライバシーポリシーのリンクよりご確認ください。<br>
+About Usage Analysis<br>
+This application uses Firebase (Google Inc.) as a tool to collect usage data for future development, and Firebase may automatically acquire information about users. Please refer to the Google Privacy Policy link below for information on the information to be obtained, the purpose of use, and provision to third parties.<br>
 
-Google プライバシーポリシー<br>
+Google Privacy Policy<br>
 https://policies.google.com/privacy?hl=ja
